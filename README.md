@@ -9,7 +9,7 @@ The API provides a single endpoint that transforms an input sentence and returns
 
 ---
 
-## 📌 Endpoint
+##  Endpoint
 
 ### *POST /api/transform*
 
